@@ -7,7 +7,7 @@
 
 ## ejecutar el proyecto
 
-Clone este projeto com o comando:
+Clone este proyecto:
 
 ```bash
   git clone https://github.com/yeho/BOT.git
